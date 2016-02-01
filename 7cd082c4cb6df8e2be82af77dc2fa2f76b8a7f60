@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa81d914_30147e43",
+        "filename": "python-networking-bigswitch.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1002601
+      },
+      "writtenOn": "2016-02-01T20:11:59Z",
+      "side": 1,
+      "message": "Neutron has an epoch so it should be 1:7.0.0",
+      "revId": "7cd082c4cb6df8e2be82af77dc2fa2f76b8a7f60",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
