@@ -86,6 +86,7 @@ done
 %license LICENSE
 %{python2_sitelib}/%{pypi_name}
 %{python2_sitelib}/*.egg-info
+/etc/neutron/policy.d/bsn_plugin_policy.json
 
 %files -n %{rpm_prefix}-agent
 %license LICENSE
