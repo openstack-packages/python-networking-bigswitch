@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a72e520_390f4032",
+        "filename": "python-networking-bigswitch.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 89,
+      "author": {
+        "id": 1005269
+      },
+      "writtenOn": "2016-03-08T06:57:09Z",
+      "side": 1,
+      "message": "should it be marked as a config file ? Like %config(noreplace).",
+      "revId": "bfc225c71dcce5ce9aa56678d483d3cb49c377f0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
