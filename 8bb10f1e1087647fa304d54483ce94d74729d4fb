@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a72e520_145b2b88",
+        "filename": "python-networking-bigswitch.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 90,
+      "author": {
+        "id": 1003190
+      },
+      "writtenOn": "2016-03-08T13:09:16Z",
+      "side": 1,
+      "message": "%{_sysconfdir}",
+      "range": {
+        "startLine": 90,
+        "startChar": 8,
+        "endLine": 90,
+        "endChar": 12
+      },
+      "revId": "8bb10f1e1087647fa304d54483ce94d74729d4fb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_34602732",
+        "filename": "python-networking-bigswitch.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 1003190
+      },
+      "writtenOn": "2016-03-08T13:09:16Z",
+      "side": 1,
+      "message": "%{_sysconfdir}",
+      "range": {
+        "startLine": 96,
+        "startChar": 5,
+        "endLine": 96,
+        "endChar": 9
+      },
+      "revId": "8bb10f1e1087647fa304d54483ce94d74729d4fb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
