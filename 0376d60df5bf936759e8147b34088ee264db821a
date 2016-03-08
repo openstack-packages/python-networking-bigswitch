@@ -1,0 +1,7 @@
+Verified+1: rdo-ci-jenkins <whayutin+rdocijenkins@redhat.com>
+Code-Review+2: Javier Peña <jpena@redhat.com>
+Submitted-by: Javier Peña <jpena@redhat.com>
+Submitted-at: Tue, 08 Mar 2016 17:21:07 +0100
+Reviewed-on: https://review.gerrithub.io/265567
+Project: openstack-packages/python-networking-bigswitch
+Branch: refs/heads/rpm-liberty
